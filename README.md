@@ -8,6 +8,5 @@ A repository containing the large synthetic dataset created to train the initial
 
 Any work that uses this dataset must cite the paper:
 
-**Zeina El Kojok, Hadi Al Khansa, Fouad Trad, Ali Chehab, Augmenting a spine CT scans dataset using VAEs, GANs, and transfer learning for improved detection of vertebral compression fractures,
-Computers in Biology and Medicine, Volume 184, 2025, 109446, ISSN 0010-4825, https://doi.org/10.1016/j.compbiomed.2024.109446.**
+**Z. El Kojok, H. Al Khansa, F. Trad, and A. Chehab, “Augmenting a spine CT scans dataset using VAEs, GANs, and transfer learning for improved detection of vertebral compression fractures,” Computers in Biology and Medicine, vol. 184, p. 109446, Nov. 2024, doi: https://doi.org/10.1016/j.compbiomed.2024.109446.**
 
